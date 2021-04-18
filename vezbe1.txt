@@ -1,4 +1,8 @@
 mama voli dete
 filip
 luka
+<<<<<<< HEAD
 dsfds
+=======
+tamara
+>>>>>>> 193b6468352f0e6b00ecd96258a16627fce6e8a1
